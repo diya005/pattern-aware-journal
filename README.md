@@ -48,4 +48,4 @@ Python, Ollama (Llama 3.1 8B), sentence-transformers, ChromaDB, SQLite, Streamli
 - Multi-modal input (voice journaling)
 
 ## Demo
-[link to your GIF/video]
+https://github.com/diya005/pattern-aware-journal/raw/main/demo(1).mp4
